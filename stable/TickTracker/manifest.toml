@@ -1,9 +1,0 @@
-[plugin]
-repository = "https://github.com/Kurochi51/TickTracker.git"
-commit = "b361daa9fd4157b162992dc1af808bb083616f5a"
-owners = ["Kurochi51"]
-project_path = "TickTracker"
-changelog = """
-- Added an alternative tick indicator that uses the native ui.
-- NET8 update
-"""

@@ -1,6 +1,0 @@
-[plugin]
-repository = "https://github.com/kelvin124124/CopyTranslated.git"
-commit = "2b5b963640e323ac5eb8a7a116fdab99236b6df7"
-owners = ["kelvin124124"]
-project_path = "CopyTranslated"
-changelog = "net8 & IContextMenu update"

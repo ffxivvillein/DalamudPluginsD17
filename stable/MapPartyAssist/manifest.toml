@@ -1,8 +1,0 @@
-[plugin]
-repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "7421f34b549f95baa9a7344734077262fee69db1"
-owners = ["wrath16"]
-project_path = "MapPartyAssist"
-changelog = """
-- Fix German regex bug.
-"""

@@ -1,9 +1,0 @@
-[plugin]
-repository = "https://github.com/Kurochi51/PetScale.git"
-commit = "a7f76db65f5f7db11253d7ab0b94ad246b297ac9"
-owners = ["Kurochi51"]
-project_path = "PetScale"
-changelog = """
-- Fixed broken filter
-- Possible fix for expanding dropdown
-"""

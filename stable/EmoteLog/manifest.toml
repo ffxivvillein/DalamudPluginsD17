@@ -1,9 +1,0 @@
-[plugin]
-repository = 'https://github.com/RokasKil/EmoteLog.git'
-commit = '92028d445f734a51a3470339498d1687ee776327'
-owners = [ 'RokasKil' ]
-project_path = 'EmoteLog'
-changelog = """
-- Added support for the new Dalamud font selection
-"""
-
