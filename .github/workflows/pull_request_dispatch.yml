@@ -26,26 +26,26 @@ jobs:
         name: Build PR
         sha: ${{ github.event.client_payload.ref }}
         status: in_progress
-        details_url: "https://github.com/goatcorp/DalamudPluginsD17/actions/runs/${{ github.run_id }}"
+        details_url: "https://github.com/dohwacorp/DalamudPluginsD17/actions/runs/${{ github.run_id }}"
 
     - name: Checkout manifests
       uses: actions/checkout@v3
       with:
-        repository: goatcorp/DalamudPluginsD17
+        repository: dohwacorp/DalamudPluginsD17
         path: manifests
         ref: ${{ github.event.client_payload.ref }}
 
     - name: Checkout Plogon
       uses: actions/checkout@v3
       with:
-        repository: goatcorp/Plogon
+        repository: dohwacorp/Plogon
         #ref: V1.0.6
         path: Plogon
 
     - name: Checkout Dist
       uses: actions/checkout@v3
       with:
-        repository: goatcorp/PluginDistD17
+        repository: dohwacorp/PluginDistD17
         path: output
         ref: main
 
@@ -103,6 +103,6 @@ jobs:
         token: ${{ steps.get-token.outputs.token }}
         check_id: ${{ steps.register_check.outputs.check_id }}
         conclusion: ${{ job.status }}
-        details_url: "https://github.com/goatcorp/DalamudPluginsD17/actions/runs/${{ github.run_id }}"
+        details_url: "https://github.com/dohwacorp/DalamudPluginsD17/actions/runs/${{ github.run_id }}"
         output: |
           {"summary":"${{ steps.plogon_run.outputs.summary_json }}"}
