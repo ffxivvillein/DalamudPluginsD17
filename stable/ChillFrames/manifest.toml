@@ -2,7 +2,7 @@
 repository = "https://github.com/dohwaplugins/ChillFrames.git"
 
 # The commit to check out and build from the repository.
-commit = "a8081affd05873c2d4d10e9ccdb6e3ff9d576786"
+commit = "b69b0b2d8cdc712707bc0c3450d662279bb7fb7e"
 
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
