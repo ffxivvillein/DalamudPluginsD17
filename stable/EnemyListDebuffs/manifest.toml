@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/dohwaplugins/EnemyListDebuffs.git"
+commit = "77a9c25fa0f516281fbc265cfb97157ef7d7aeb3"
+owners = [
+    "KangDohwa",
+]
+changelog = "Update for KR"
