@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/dohwaplugins/EngageTimer.git"
+commit = "f5bfa07a4ca0be31623ad687926124a50251d019"
+owners = ["KangDohwa"]
+changelog = """\
+- Add an option to draw the custom 0-5 numbers without hiding the original countdown
+- Make animation match vanilla a bit better
+"""
