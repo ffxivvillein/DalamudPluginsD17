@@ -1,0 +1,19 @@
+[plugin]
+repository = "https://github.com/dohwaplugins/BDTHPlugin.git"
+
+# The commit to check out and build from the repository.
+commit = "7f0e44e39997a852f51dada3f0c2f4cd16c848eb"
+
+# The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
+owners = [
+    "KangDohwa"
+]
+
+# Optional: where your project/csproj is located within the repository.
+# If empty or unspecified, it will be assumed the project is in the root of the repository.
+project_path = "BDTHPlugin"
+
+# The changelog for this version. Will be shown in-game, as well on the Goat Place Discord.
+changelog = """\
+		Update for KR\
+		"""
