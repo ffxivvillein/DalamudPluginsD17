@@ -1,0 +1,19 @@
+[plugin]
+repository = "https://github.com/dohwaplugins/Dalamud.RichPresence.git"
+
+# The commit to check out and build from the repository.
+commit = "6abfdd7a8973061162fb607e202649dd3e1f2c1c"
+
+# The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
+owners = [
+    "KangDohwa"
+]
+
+# Optional: where your project/csproj is located within the repository.
+# If empty or unspecified, it will be assumed the project is in the root of the repository.
+project_path = "Dalamud.RichPresence"
+
+# The changelog for this version. Will be shown in-game, as well on the Goat Place Discord.
+changelog = """\
+		Update for KR\
+		"""
