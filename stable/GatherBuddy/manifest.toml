@@ -2,7 +2,7 @@
 repository = "https://github.com/dohwaplugins/GatherBuddy.git"
 
 # The commit to check out and build from the repository.
-commit = "aee2446dc403dacd6f033a4b657aa4f957a1417f"
+commit = "eb9f2ceca5dbc7b3d12a844f311cafeb695e0612"
 
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
