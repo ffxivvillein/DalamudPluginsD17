@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/dohwaplugins/PixelPerfect.git"
+commit = "cce409091917cfb496d8657eefc4101558c5f01f"
+owners = [
+		"KangDohwa",
+		"Haplo064",
+]
+changelog = "Added images, added dashed rings, API9 update."
