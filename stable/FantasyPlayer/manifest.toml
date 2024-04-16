@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/dohwaplugins/FantasyPlayer.git"
-commit = "1176b99bad96823ae46a5a568e27e5b3a1be2948"
+commit = "d08a6911953037f7fefe3d113993d2da54b9627f"
 owners = [
     "KangDohwa",
 ]
