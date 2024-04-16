@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/dohwaplugins/NeatNoter.git"
+owners = [
+		"KangDohwa",
+		"shadowkras",
+]
+project_path = "src/NeatNoter"
+commit = "f66b2d88efb4009072d2e3f02b78b98e0b74046d"
