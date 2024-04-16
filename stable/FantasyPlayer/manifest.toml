@@ -1,0 +1,13 @@
+[plugin]
+repository = "https://github.com/dohwaplugins/FantasyPlayer.git"
+commit = "d08a6911953037f7fefe3d113993d2da54b9627f"
+owners = [
+    "KangDohwa",
+]
+project_path = "FantasyPlayer"
+version = "2.2.0.2"
+changelog = """\
+**Bug Fixes**
+- Fixes so that the plugin disposes properly
+- The browser should now open using the same method Dalamud uses for logging in, Linux/Mac OSX users see if you can login now
+"""
