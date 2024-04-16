@@ -1,0 +1,11 @@
+[plugin]
+repository = "https://github.com/dohwaplugins/ChatBubbles.git"
+commit = "1e154dc6a40ecdba5e6d04f1e75db80101ca9245"
+owners = [
+		"KangDohwa",
+		"Haplo064",
+		"MKhayle",
+]
+project_path = "ChatBubbles"
+changelog = """### Updated for 6.5 & API9 compatibility
+Haplo064 did all the work there, thanks Haplo """
