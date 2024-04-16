@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/dohwaplugins/RezPls.git"
+commit = "bd9789603e19c1a20c1af7cfcf596319566c621f"
+owners = [
+    "KangDohwa",
+    "Ottermandias",
+]
+project_path = "RezPls"

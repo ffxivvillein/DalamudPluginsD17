@@ -1,0 +1,16 @@
+[plugin]
+repository = "https://github.com/dohwaplugins/ItemVendorLocation.git"
+commit = "d016d62b0bc6e84d05fcaa7e019afb63cf1805e6"
+owners = [
+    "KangDohwa",
+    "electr0sheep",
+    "Nukoooo",
+]
+project_path = "ItemVendorLocation"
+changelog = """
+- Island Sanctuary fixes (Nuko)
+- Zadnor vendor fixes (Nuko)
+- Mysterious Map vendor fix (Nuko)
+- Special shop name fix (electr0sheep)
+"""
+version = "2.5.0.0"

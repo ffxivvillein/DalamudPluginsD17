@@ -1,5 +1,9 @@
 [plugin]
 repository = "https://github.com/dohwaplugins/EzMiniCactpot.git"
-owners = [ "KangDohwa" ]
+owners = [
+		"KangDohwa",
+		"daemitus",
+		"MidoriKami"
+]
 project_path = "MiniCactpotSolver"
 commit = "0764fcc25b49fff26da45638640f46c33d9ed50c"

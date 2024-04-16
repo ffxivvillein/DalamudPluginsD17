@@ -1,0 +1,16 @@
+[plugin]
+repository = "https://github.com/dohwaplugins/NamePlateDebuffs.git"
+commit = "a9ccada3992269c48c3ae139fb2c2b526cfc5a46"
+owners = [
+    "KangDohwa",
+    "aers",
+    "JHerig",
+    "abashby",
+    "sourpuh",
+]
+project_path = "NamePlateDebuffs"
+changelog = """
+Nameplate Debuffs 1.1.0.0
+- Add option to show debuffs on player nameplates
+- Added new chat commands for toggling visibility
+"""

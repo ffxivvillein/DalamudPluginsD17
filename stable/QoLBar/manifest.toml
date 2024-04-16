@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/dohwaplugins/QoLBar.git"
+commit = "ace0951a27463326771d247b2e056e83f008c209"
+owners = [
+		"KangDohwa",
+		"UnknownX7",
+]
+changelog = '''
+- Api9'''

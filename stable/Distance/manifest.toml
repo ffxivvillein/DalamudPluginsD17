@@ -1,19 +1,24 @@
 [plugin]
 repository = "https://github.com/dohwaplugins/Distance.git"
-
-# The commit to check out and build from the repository.
 commit = "80e541ecef38555b7a5d2860ffb797a4f98b3b7f"
-
-# The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
-    "KangDohwa"
+    "KangDohwa",
+    "PunishedPineapple",
 ]
-
-# Optional: where your project/csproj is located within the repository.
-# If empty or unspecified, it will be assumed the project is in the root of the repository.
 project_path = "Distance"
+changelog = '''
+- Added distance-based fading to text widgets and nameplate distances
+- Added offsets by object type to nameplate distances.
+- Minor config UI improvements.
 
-# The changelog for this version. Will be shown in-game, as well on the Goat Place Discord.
-changelog = """\
-		Update for KR\
-		"""
+Also contains the following differences that were previously only in the testing branch:
+- Added a custom arcs feature to match custom widgets.
+- Rewrote config UI.
+- Added job filters to all distance displays.
+- Added a filter for in and out of instance.
+- Applied other filter types to displays that did not have them.
+- Improved nameplate node setup to more closely match the base game.
+- Fixed a bug that caused nameplate text nodes to not be properly cleaned up during plugin unload.
+- Improved logging.
+- Significant code cleanup and reorganization.
+'''

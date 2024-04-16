@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/dohwaplugins/MacroChain.git"
+commit = "4902a11bbd1389ee6ae097665fce33bea3d452ca"
+owners = [
+    "KangDohwa",
+    "Caraxi",
+]

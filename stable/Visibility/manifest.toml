@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/dohwaplugins/VisibilityPlugin.git"
+owners = [
+		"KnagDohwa",
+		"SheepGoMeh",
+]
+project_path = "Visibility"
+commit = "3715345ba5c258904bf06e86810bddc9b6d9b097"
+changelog = "[PR] API9"

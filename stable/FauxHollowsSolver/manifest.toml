@@ -1,6 +1,10 @@
 [plugin]
 repository = "https://github.com/dohwaplugins/EzFauxHollows.git"
-owners = [ "KangDohwa" ]
+owners = [
+		"KangDohwa",
+		"daemitus",
+		"MidoriKami",
+]
 project_path = "FauxHollowsSolver"
 commit = "5a26a6e619ed58e3658a0db541a2471e2180eb02"
 changelog = ""

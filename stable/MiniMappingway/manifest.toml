@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/dohwaplugins/MiniMappingway.git"
+commit = "44baf6bb2b22c83345205aecc5a54c145fc86688"
+owners = [
+    "KangDohwa",
+    "jaycewhite",
+]
+changelog = "Update for 6.5"
+version = "1.0.0.5"

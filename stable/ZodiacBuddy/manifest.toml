@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/dohwaplugins/ZodiacBuddy.git"
+owners = [
+		"KangDohwa",
+		"daemitus",
+		"MidoriKami",
+]
+project_path = "ZodiacBuddy"
+commit = "69323243bbd7a80031703e847ffc91999e9ae8b4"
+changelog = ""
