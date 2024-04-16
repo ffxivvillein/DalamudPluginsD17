@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/dohwaplugins/MarketBoardPlugin.git"
-commit = "65e300142e7d88a51a460819332d5bb854260fd9"
+commit = "427973e4a5a3dc1da5b129e9b64b18bda9fd4a4c"
 owners = [
 		"KangDohwa",
 		"fmauNeko",
