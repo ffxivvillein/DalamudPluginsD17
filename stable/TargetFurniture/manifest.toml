@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/dohwaplugins/TargetFurniture.git"
+commit = "1c4472446ca8b28139dabc6af969a4839b112143"
+owners = [
+		"KangDohwa",
+		"InitialDet",
+]
+project_path = "TargetFurniture"
