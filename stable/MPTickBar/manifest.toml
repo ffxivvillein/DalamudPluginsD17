@@ -1,0 +1,11 @@
+[plugin]
+repository = "https://github.com/dohwaplugins/mp-tick-bar.git"
+commit = "8a8a23c08537ad24286ff353469f2047da2f3cd0"
+owners = [
+		"KangDohwa",
+		"marconsou",
+]
+project_path = "MPTickBar"
+changelog = """
+- .NET 8.0.
+"""
