@@ -3,6 +3,7 @@ repository = "https://github.com/dohwaplugins/InventoryTools.git"
 commit = "92dd06c33297f51a00f2aa59b6813da2955a029d"
 owners = [
     "KangDohwa",
+    "Critical-Impact",
 ]
 project_path = "InventoryTools"
 version = "1.6.2.9"

@@ -2,6 +2,7 @@
 repository = "https://github.com/dohwaplugins/GatherBuddy.git"
 commit = "757f0a3bbdf81bc7b952bf10a2201a3bb0535fc0"
 owners = [
-    "KangDohwa"
+    "KangDohwa",
+    "Ottermandias",
 ]
 project_path = "GatherBuddy"

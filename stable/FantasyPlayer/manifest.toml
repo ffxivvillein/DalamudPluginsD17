@@ -3,6 +3,7 @@ repository = "https://github.com/dohwaplugins/FantasyPlayer.git"
 commit = "d08a6911953037f7fefe3d113993d2da54b9627f"
 owners = [
     "KangDohwa",
+    "Critical-Impact",
 ]
 project_path = "FantasyPlayer"
 version = "2.2.0.2"

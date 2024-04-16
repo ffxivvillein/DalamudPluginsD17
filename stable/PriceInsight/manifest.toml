@@ -1,7 +1,10 @@
 [plugin]
 repository = "https://github.com/dohwaplugins/ffxiv-priceinsight.git"
 commit = "cebc13328364c95a3ef5505305906f273326027f"
-owners = ["KangDohwa"]
+owners = [
+		"KangDohwa",
+		"Kouzukii",
+]
 project_path = ""
 changelog = """
 - Rewrote caching logic to better avoid unnecessary requests to universalis

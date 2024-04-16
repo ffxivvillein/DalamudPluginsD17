@@ -3,4 +3,5 @@ repository = "https://github.com/dohwaplugins/FPSPlugin.git"
 commit = "68b653e88f326a5836f8a1f702f184b22a2e2bd9"
 owners = [
     "KangDohwa",
+    "Caraxi",
 ]

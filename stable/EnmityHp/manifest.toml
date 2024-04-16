@@ -8,5 +8,6 @@ repository = "https://github.com/dohwaplugins/EnmityHp.git"
 commit = "2c495026819e3411069eb94b0ed0dd2a3a58eae5"
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
-    "KangDohwa"
+    "KangDohwa",
+    "Limiana",
 ]

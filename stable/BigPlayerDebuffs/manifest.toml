@@ -6,7 +6,8 @@ commit = "e80426ed7afae1e147500acdc1be2fde2fe1b2e3"
 
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
-    "KangDohwa"
+    "KangDohwa",
+    "d87",
 ]
 
 # Optional: where your project/csproj is located within the repository.
@@ -14,6 +15,4 @@ owners = [
 project_path = ""
 
 # The changelog for this version. Will be shown in-game, as well on the Goat Place Discord.
-changelog = """\
-		Update for KR\
-		"""
+changelog = "v1.1.0.9 - 6.5 Dalamud Update"
