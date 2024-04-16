@@ -1,9 +1,0 @@
-[plugin]
-repository = "https://github.com/dohwaplugins/ReadyCheckHelper.git"
-commit = "886515f1d1bf89cc772da6c3ef3d0f0560fd25f6"
-owners = [
-    "KangDohwa",
-    "Infiziert90",
-    "PunishedPineapple",
-]
-project_path = "ReadyCheckHelper"
