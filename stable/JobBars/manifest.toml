@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/dohwaplugins/JobBars.git"
+commit = "7dcb7096f074db2ff1882a46f9046510e2768626"
+owners = [
+    "KangDohwa",
+    "0ceal0t",
+]
+project_path = "JobBars"
