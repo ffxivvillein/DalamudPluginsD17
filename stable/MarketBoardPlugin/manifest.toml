@@ -1,7 +1,8 @@
 [plugin]
-repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
-commit = "2ad588d17e2111e2787566bd77954ede95649f93"
+repository = "https://github.com/dohwaplugins/MarketBoardPlugin.git"
+commit = "65e300142e7d88a51a460819332d5bb854260fd9"
 owners = [
+		"KangDohwa",
 		"fmauNeko",
 ]
 project_path = "MarketBoardPlugin"
