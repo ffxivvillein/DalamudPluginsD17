@@ -1,0 +1,12 @@
+[plugin]
+repository = "https://github.com/dohwaplugins/ffxiv-deathrecap.git"
+commit = "e5274e0ac645a8c0002736666c5c53fd5aa81932"
+owners = [
+		"KangDohwa",
+		"Kouzukii",
+]
+project_path = ""
+changelog = """
+- Fix Well Fed & Medicated icon in death recap
+- Show healing from Kardia, Nascent Glint and similar abilties (by Cformaintain)
+"""
