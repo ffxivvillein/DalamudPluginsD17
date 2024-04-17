@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/dohwaplugins/FFTriadBuddyDalamud.git"
+commit = "9e1f11d11e5bba484e747780e7e8bfc8174d1237"
+owners = [
+		"KangDohwa",
+    "MgAl2O4",
+]
