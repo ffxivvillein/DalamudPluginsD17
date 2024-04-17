@@ -1,0 +1,8 @@
+[plugin]
+repository = ''
+commit = '2137e5e6a761f6d4a9552e4a0523632a122034d0'
+owners = [
+		'KangDohwa',
+		'lojewalo',
+]
+changelog = 'API 9'
