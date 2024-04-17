@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/dohwaplugins/Tourist.git"
+commit = "632471e529727611918515ddbc2244fb7f3fa818"
+owners = [
+		"KangDohwa",
+		"lojewalo",
+]
+changelog = "API 9"
