@@ -1,9 +1,0 @@
-[plugin]
-repository = "https://github.com/dohwaplugins/MarketBoardPlugin.git"
-commit = "427973e4a5a3dc1da5b129e9b64b18bda9fd4a4c"
-owners = [
-		"KangDohwa",
-		"fmauNeko",
-]
-project_path = "MarketBoardPlugin"
-changelog = "- Fixed the plugin \"No GST\" feature (Universalis API changes)"
