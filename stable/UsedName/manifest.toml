@@ -1,0 +1,11 @@
+[plugin]
+repository = "https://github.com/dohwaplugins/UsedName.git"
+commit = "453adf92e12431b28be151080334e4365da2193d"
+owners = [
+		"KangDohwa",
+    "LittleNightmare",
+]
+project_path = "UsedName"
+changelog = """
+- Support API9
+"""
