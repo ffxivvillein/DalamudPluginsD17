@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/dohwaplugins/HotbarUnlimited.git"
+commit = "9ca4bd8354198b0aad6cb4f4e330fb4147fb0cf1"
+owners = [
+		"KangDohwa",
+		"MidoriKami",
+]
+project_path = "HotbarUnlimited"
