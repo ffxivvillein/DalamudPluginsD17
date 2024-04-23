@@ -1,0 +1,8 @@
+[plugin]
+repository = 'https://github.com/dohwaplugins/Globetrotter.git'
+commit = 'f322aa985227e10cde6e2ad6f4728cc917ba74c3'
+owners = [
+		'KangDohwa',
+		'lojewalo',
+]
+changelog = 'API 9'
