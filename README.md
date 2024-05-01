@@ -10,7 +10,7 @@
 - 당신의 플러그인이 공개적으로 접근 가능한 Git 리포지토리에 있는지 확인하세요(GitHub, GitLab, 인증 없이 HTTP 클로닝이 가능한 Git instance 등).
 - 당신의 `.csproj`를 업데이트하세요.
 	- `PropertyGroup` 안에 `<RestorePackagesWithLockFile>true</RestorePackagesWithLockFile>`를 적으세요.
-	- `$(DalamudLibPath)`를 사용하세요. 참조 : [샘플 플러그](https://github.com/goatcorp/SamplePlugin/blob/c6a5f5fcbf8e6812f274fab6347307c0283bd6fb/SamplePlugin/Dalamud.Plugin.Bootstrap.targets#L10)
+	- `$(DalamudLibPath)`를 사용하세요. 참조 : [샘플 플러그인](https://github.com/goatcorp/SamplePlugin/blob/c6a5f5fcbf8e6812f274fab6347307c0283bd6fb/SamplePlugin/Dalamud.Plugin.Bootstrap.targets#L10)
 - 플러그인을 Release로 Build하고, `.csproj`와 새로 생성된 lock file을 commit하세요.
 
 ### 승인 기준
