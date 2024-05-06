@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/dohwaplugins/umbra.git"
-commit = "f735bc3d20719465f5f08e6e22c57bb0b47336c7"
+commit = "befe79aed42bc05fc239596b801e054a671bd5d1"
 owners = [
 		"KangDohwa",
 		"haroldiedema",
