@@ -1,7 +1,8 @@
 [plugin]
-repository = "https://github.com/Blooym/GoodFriend.git"
-commit = "ae5ac1654eddfd857e1282a58b944d1ccc4438d1"
+repository = "https://github.com/dohwaplugins/GoodFriend.git"
+commit = "a5bd867b9ee347e731a1e3db86c38bbf857146eb"
 owners = [
+    "KangDohwa",
     "Blooym",
 ]
 project_path = "src/Plugin"
